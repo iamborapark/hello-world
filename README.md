@@ -1,2 +1,2 @@
 # hello-world
-iamborapark
+iamborapark, a junior UX designer based in Toronto, Canada.
